@@ -1,0 +1,14 @@
+/home/louis/projects/userdb/bin/Debug/net8.0/userdb
+/home/louis/projects/userdb/bin/Debug/net8.0/userdb.deps.json
+/home/louis/projects/userdb/bin/Debug/net8.0/userdb.runtimeconfig.json
+/home/louis/projects/userdb/bin/Debug/net8.0/userdb.dll
+/home/louis/projects/userdb/bin/Debug/net8.0/userdb.pdb
+/home/louis/projects/userdb/obj/Debug/net8.0/userdb.GeneratedMSBuildEditorConfig.editorconfig
+/home/louis/projects/userdb/obj/Debug/net8.0/userdb.AssemblyInfoInputs.cache
+/home/louis/projects/userdb/obj/Debug/net8.0/userdb.AssemblyInfo.cs
+/home/louis/projects/userdb/obj/Debug/net8.0/userdb.csproj.CoreCompileInputs.cache
+/home/louis/projects/userdb/obj/Debug/net8.0/userdb.dll
+/home/louis/projects/userdb/obj/Debug/net8.0/refint/userdb.dll
+/home/louis/projects/userdb/obj/Debug/net8.0/userdb.pdb
+/home/louis/projects/userdb/obj/Debug/net8.0/userdb.genruntimeconfig.cache
+/home/louis/projects/userdb/obj/Debug/net8.0/ref/userdb.dll
